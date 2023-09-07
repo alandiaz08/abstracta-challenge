@@ -1,5 +1,5 @@
 {
-  "name": "fonselp-e2e-tests",
+  "name": "abstracta-challenge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.33.0",
+    "@playwright/test": "^1.37.1",
     "@types/jest": "^29.4.0",
+    "@types/node": "^20.5.9",
     "dotenv": "^16.0.3",
     "winston": "^3.9.0"
   }

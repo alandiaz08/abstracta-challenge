@@ -7,3 +7,6 @@ node_modules/
 /playwright/.cache/
 /.vscode/
 /screenshots/
+/test-results/
+/playwright-report/
+/playwright/.cache/

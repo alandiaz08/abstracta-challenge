@@ -1,5 +1,5 @@
 export const config = {
     dev: {
-        fonselp: 'https://dev.fonselp.org/',
+        mercadolibre: 'https://www.mercadolibre.com.ar/',
     }
 };
